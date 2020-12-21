@@ -1,0 +1,14 @@
+{
+  "name": "hallo",
+  "version": "1.0.0",
+  "description": "just a test",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.1.0"
+  }
+}
