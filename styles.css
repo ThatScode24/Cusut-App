@@ -12,6 +12,7 @@ body {
     height: 150px;
     top: 150px;
     left: 300px;
+    box-sizing: border-box;
 }
 
 .second-input {
@@ -51,6 +52,7 @@ body {
     border-radius: 40px;
     background: linear-gradient(90deg, #755bea, #ff72c0);
     font-weight: 700;
+    cursor: pointer;
 }
 
 
